@@ -1,83 +1,70 @@
-# t+pazolite – Party in the HOLLOWood
+# aran – à la mode
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:22.17] よくぞ来たいらっしゃいませ
-[00:24.42] 騒がしいところだけれど
-[00:27.12] 落ち着いてみてほしい
-[00:29.84] 取って食べたりしないからね
-[00:32.86] あなた様 声聞かせて
-[00:35.17] ハイトーンな叫び声を
-[00:37.99] 驚いて逃げ出しちゃうかもね
-[00:44.49] 
-[00:42.38] (Sometimes I think)
-[00:43.52] ちょっぴりもどかしくて
-[00:45.82] ちょっぴり寂しくて
-[00:48.38] (But I can't say)
-[00:49.08] やっぱりおばけだもんね
-[00:51.40] ならいっそ Jump up!
-[00:58.40] 
-[00:54.10] Let's scream out＆disport me!
-[00:56.56] 悪夢楽しめホロウッド
-[00:59.33] 誰でもようこそ無国籍
-[01:01.96] 満漢全席アイヤイヤッパー！
-[01:04.82] Let's scream out＆disport me!
-[01:07.15] 全部忘れられるよね？
-[01:09.85] 不貞腐れたゾンビさんも
-[01:12.68] 踊りだす楽園で 待ってるからね
-[01:20.18] 
-[01:16.48] こちらが今夜のフルコース
-[01:29.16] さながらまるでプロポーズ??
-[01:31.77] 飛び出せ脳漿メロンパン
-[01:32.96] 勅令添えて異国感
-[01:34.32] 大事なハートはスペシャリテ
-[01:35.61] でも気になる中身はキャラメリゼ
-[01:36.85] お待たせどうぞ召し上がれ！
-[01:38.24] できればどうぞごゆっくり
-[01:44.24] 
-[01:39.78] あれれまた お客様
-[01:42.55] 何の用でごじゃりますか
-[01:45.09] 私たち 怖くないの？
-[01:47.72] だって皿とか飛んで来るよ？
-[01:50.68] 何してもしかめっ面
-[01:53.33] 怖いのはそっちの顔じゃん
-[01:56.08] このままじゃ泣き出しちゃうかもね
-[02:04.08] 
-[02:00.35] (Sometimes think)
-[02:01.33] ちょっぴり期待してて
-[02:04.07] ちょっぴりうれしくて
-[02:06.17] (But I can't say)
-[02:06.75] やっぱりおばけだもんね
-[02:09.26] ならいっそ Jump up!
-[02:16.26] 
-[02:12.06] Let's scream out＆disport me!
-[02:14.66] 無間天獄ホロウッド
-[02:17.26] 誰もが頂点ボーダレス
-[02:20.02] コープスダンシン アイヤイヤッパー！
-[02:22.90] Let's scream out＆disport me!
-[02:25.33] これで怖がられるよね
-[02:28.15] ちょっとおしゃなまにゃんこさんも
-[02:31.15] 歌い出す楽園を
-[02:34.65] 
-[02:44.58] 夢の終わり
-[02:49.53] 私も終わる
-[02:54.02] なんじゃそりゃ???
-[02:55.94] 終わりのストーリーって
-[02:56.80] 私の総意って
-[02:57.98] いつまでそう言って
-[02:59.37] またごまかして
-[03:00.82] むずい言葉も 私の想いも
-[03:03.33] 明日のご飯さえなんもかんもわっかんねえ
-[03:12.83] 
-[03:06.02] Let's scream out＆disport me!
-[03:08.51] 悪夢楽しめホロウッド
-[03:11.19] 誰でもようこそ無国籍
-[03:14.01] 満漢全席アイヤイヤッパー！
-[03:16.83] Let's scream out＆disport me!
-[03:19.37] 全部忘れられるよね？
-[03:22.15] 名前も知らないお嬢さんも
-[03:24.72] 帰ってくる楽園がまだあるからね
-[03:32.22] 
-[03:39.82] うーんおかわりもう一丁！
+```
+Tear up the photographs
+But yesterday won't let go
+Every day every day every
+minute
+Here comes the emptiness
+Just can't be lonely you know
+Every day every day hey hey
+This second-chancin's really
+getting me down
+You give and taking everything
+I dreamed about
+It's time you let me know let
+me know just let go
+All I ever wanted all I ever
+wanted
+Was a simple way to get over you
+All I ever wanted all I ever
+wanted
+Was an in-between to escape
+this desperate scene
+Where every law reveals the
+truth
+Baby cause I all ever wanted
+All I ever wanted was you
+I'd rather walk alone
+Don't wanna chase you around
+Every day every day every minute
+I thought a thousand times
+For I let you drag me down
+Every day every day hey hey
+Your new beginning was a
+perfect ending
+But I keep feeling we've
+already been here before
+It's time you let me know let
+me know just let go
+All I ever wanted all I ever
+wanted
+Was a simple way to get over you
+All I ever wanted all I ever
+wanted
+Was an in-between to escape
+this desperate scene
+Where every law reveals the
+truth
+Baby cause I all ever wanted
+All I ever wanted was you
+Tell me with so many out there
+Why I always turn to you
+Your goodbyes tear me down
+every time
+And it's so easy to see that
+they'll blame this on me
+All I ever wanted all I ever
+wanted
+Was a simple way to get over you
+All I ever wanted all I ever
+wanted
+Was an in-between to escape
+this desperate scene
+Where every law reveals the
+truth
+Baby cause I all ever wanted
+All I ever wanted was you
 ```
